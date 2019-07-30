@@ -1,6 +1,5 @@
 # NBA MVP Predictor
-![Overview Image]
-(https://cdn-images-1.medium.com/max/800/1*EnaXYr1IZ8xIzjNDNNjXIQ.jpeg)
+![Overview Image](https://cdn-images-1.medium.com/max/800/1*EnaXYr1IZ8xIzjNDNNjXIQ.jpeg)
 
 # Introduction
 The Most Valuable Player (MVP) award is the highest individual accolade in National Basketball Association (NBA). It is voted on by media members based on a relatively open-ended definition of value. It's purposely subjective to incite conversations (and heated arguments) between fans and media members about what value truly means in the game of basketball.
